@@ -37,3 +37,34 @@ This Python program calculates and compares the average heights of two groups: b
 3. **Run the Program**:
    ```bash
    python height_comparison.py
+
+---
+
+# Output Example 
+
+Meninos:
+
+Bruno: 1.50 metros
+
+Gabriel: 1.60 metros
+
+Lucas: 1.70 metros
+
+Meninas:
+
+Ana: 1.40 metros
+
+Beatriz: 1.55 metros
+
+Larissa: 1.65 metros
+
+Média de altura dos meninos: 1.60 metros
+
+Média de altura das meninas: 1.55 metros
+
+Diferença entre as médias: 0.05 metros
+
+Porcentagem de diferença: 3.12%
+
+# DOCUMENTS 📂📄
+[Python math library docs](https://docs.python.org/3/library/math.html)
